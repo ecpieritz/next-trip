@@ -1,10 +1,18 @@
 @import './variables';
 
+body{
+  background-color: $nt-white;
+}
 
 *{
   color: $nt-text;
   margin: 0;
   padding: 0;
+}
+
+.container-fluid{
+  max-width: 1340px;
+  margin: auto;
 }
 
 .nt-color{
