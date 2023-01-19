@@ -1,59 +1,72 @@
 @import './variables';
 
-body{
+body {
   background-color: $nt-white;
 }
 
-*{
+* {
   color: $nt-text;
   margin: 0;
   padding: 0;
 }
 
-.container-fluid{
+.container-fluid {
   max-width: 1340px;
   margin: auto;
 }
 
-.nt-color{
-  &__text{
-    &__pink{
+.nt-color {
+  &__text {
+    &__pink {
       color: $nt-pink;
     }
-    &__blue{
+
+    &__blue {
       color: $nt-blue;
     }
-    &__yellow{
+
+    &__yellow {
       color: $nt-yellow;
     }
-    &__black{
+
+    &__black {
       color: $nt-black;
     }
   }
-  &__bg{
-    &__pink{
+
+  &__bg {
+    &__pink {
       background-color: $nt-pink;
     }
-    &__blue{
+
+    &__blue {
       background-color: $nt-blue;
     }
-    &__yellow{
+
+    &__yellow {
       background-color: $nt-yellow;
     }
-    &__white{
+
+    &__white {
       background-color: $nt-white;
     }
-    &__gray{
+
+    &__gray {
       background-color: $nt-gray;
     }
-    &__black-gradient{
-      background: rgb(22,21,24);
-background: linear-gradient(180deg, rgba(22,21,24,1) 0%, rgba(50,49,54,1) 100%);
+
+    &__black-gradient {
+      background: rgb(22, 21, 24);
+      background: linear-gradient(180deg, rgba(22, 21, 24, 1) 0%, rgba(50, 49, 54, 1) 100%);
+    }
+    &__pink-gradient {
+      background: rgb(204, 24, 87);
+      background: linear-gradient(180deg, rgba(204, 24, 87, 1) 0%, rgb(117, 13, 49) 100%);
     }
   }
 }
 
-.nt-btn{
+.nt-btn {
   padding: 10px 20px;
   border-radius: 12px;
   border: none;
@@ -66,22 +79,24 @@ background: linear-gradient(180deg, rgba(22,21,24,1) 0%, rgba(50,49,54,1) 100%);
   font-size: 18px;
   text-decoration: none;
 
-  @media(max-width: 780px){
+  @media(max-width: 780px) {
     font-size: 16px;
   }
 
-  &.bg-pink{
+  &.bg-pink {
     background-color: $nt-pink;
     color: $nt-white;
-    
-    &:hover{
+
+    &:hover {
       background-color: $nt-dark-pink;
     }
   }
-  &.bg-blue{
+
+  &.bg-blue {
     background-color: $nt-blue;
     color: $nt-white;
-    &:hover{
+
+    &:hover {
       background-color: $nt-dark-blue;
     }
   }

@@ -1,5 +1,5 @@
 <template>
-  <div class="nt-banner">
+  <div class="nt-banner" id="nt-banner">
     <div class="container-fluid">
       <div class="nt-color__bg__white">
         <h1>Your trip starts right here</h1>

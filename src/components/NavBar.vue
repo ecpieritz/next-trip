@@ -7,16 +7,16 @@
     <div class="nav justify-content-center collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item active">
-          <a class="nav-link" href="#">Home</a>
+          <a class="nav-link" href="#nt-banner">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
+          <a class="nav-link" href="#nt-about">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Services</a>
+          <a class="nav-link" href="#nt-services">Services</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Travels</a>
+          <a class="nav-link" href="#nt-travels">Travels</a>
         </li>
       </ul>
 
