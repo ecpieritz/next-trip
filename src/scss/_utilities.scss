@@ -1,0 +1,18 @@
+@import './variables';
+
+.nt-color{
+  &__text{
+    &__pink{
+      color: $nt-pink;
+    }
+    &__blue{
+      color: $nt-blue;
+    }
+    &__yellow{
+      color: $nt-yellow;
+    }
+    &__black{
+      color: $nt-black;
+    }
+  }
+}
