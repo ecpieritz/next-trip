@@ -45,6 +45,18 @@ export default {
     line-height: 1.5;
   }
 
- 
+  @media(max-width: 780px) {
+    height: auto;
+    .nt-color__bg__white{
+      width: 100%;
+      background-color: transparent;
+      padding: 20px 20px 60px;
+      
+      h1,h4{
+        color: $nt-white;
+        width: 100%;
+      }
+    }
+  }
 }
 </style>
