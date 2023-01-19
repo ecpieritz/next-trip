@@ -57,6 +57,10 @@ export default {
     p{
       margin: 40px 0;
       width: 80%;
+
+      @media(max-width: 780px){
+        width: 100%;
+      }
     }
   }
 
@@ -82,6 +86,11 @@ export default {
       }
 
     }
+
+    @media(max-width: 780px){
+      width: 100%;
+      margin-bottom: 40px;
+    }
   }
 
   &__item{
@@ -94,7 +103,17 @@ export default {
       margin-right: 30px;
       border-radius: 20px;
     }
+
+    @media(max-width: 780px){
+      margin: 0 0 30px;
+      img{
+        margin-right: 20px;
+        width: 80px;
+      }
+    }
   }
-  @media(max-width: 780px) {}
+  @media(max-width: 780px) {
+    padding: 80px 20px 0;
+  }
 }
 </style>
