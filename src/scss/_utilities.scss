@@ -1,5 +1,12 @@
 @import './variables';
 
+
+*{
+  color: $nt-text;
+  margin: 0;
+  padding: 0;
+}
+
 .nt-color{
   &__text{
     &__pink{
@@ -13,6 +20,61 @@
     }
     &__black{
       color: $nt-black;
+    }
+  }
+  &__bg{
+    &__pink{
+      background-color: $nt-pink;
+    }
+    &__blue{
+      background-color: $nt-blue;
+    }
+    &__yellow{
+      background-color: $nt-yellow;
+    }
+    &__white{
+      background-color: $nt-white;
+    }
+    &__gray{
+      background-color: $nt-gray;
+    }
+    &__black-gradient{
+      background: rgb(22,21,24);
+background: linear-gradient(180deg, rgba(22,21,24,1) 0%, rgba(50,49,54,1) 100%);
+    }
+  }
+}
+
+.nt-btn{
+  padding: 10px 20px;
+  border-radius: 12px;
+  border: none;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  outline: none !important;
+  font-size: 18px;
+  text-decoration: none;
+
+  @media(max-width: 780px){
+    font-size: 16px;
+  }
+
+  &.bg-pink{
+    background-color: $nt-pink;
+    color: $nt-white;
+    
+    &:hover{
+      background-color: $nt-dark-pink;
+    }
+  }
+  &.bg-blue{
+    background-color: $nt-blue;
+    color: $nt-white;
+    &:hover{
+      background-color: $nt-dark-blue;
     }
   }
 }
