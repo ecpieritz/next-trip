@@ -22,9 +22,17 @@
 
               <div class="col-lg-6 nt-travel__text">
                 <h3>Thailand</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porttitor nibh sit amet ornare gravida. In consequat malesuada vehicula. Donec maximus turpis id sapien gravida facilisis. Suspendisse at nulla at tortor cursus feugiat. Praesent sed auctor felis. Vestibulum vehicula est vitae turpis faucibus, a porttitor dolor imperdiet. </p>
-                <p>Aliquam tellus tellus, ultrices non ullamcorper in, venenatis a velit. Etiam at hendrerit dui. Fusce eleifend metus sed lectus tempus tempor. Nullam mattis dui nunc, ac laoreet diam venenatis id. Vivamus elementum et sapien vel scelerisque. Fusce urna diam, malesuada eu scelerisque a, semper id urna. Suspendisse in libero lacus. Sed tristique magna sit amet velit semper volutpat. Morbi risus mi, convallis non odio non, semper ultrices ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.</p>
-                
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porttitor nibh sit amet ornare
+                  gravida. In consequat malesuada vehicula. Donec maximus turpis id sapien gravida facilisis.
+                  Suspendisse at nulla at tortor cursus feugiat. Praesent sed auctor felis. Vestibulum vehicula est
+                  vitae turpis faucibus, a porttitor dolor imperdiet. </p>
+                <p>Aliquam tellus tellus, ultrices non ullamcorper in, venenatis a velit. Etiam at hendrerit dui. Fusce
+                  eleifend metus sed lectus tempus tempor. Nullam mattis dui nunc, ac laoreet diam venenatis id. Vivamus
+                  elementum et sapien vel scelerisque. Fusce urna diam, malesuada eu scelerisque a, semper id urna.
+                  Suspendisse in libero lacus. Sed tristique magna sit amet velit semper volutpat. Morbi risus mi,
+                  convallis non odio non, semper ultrices ante. Vestibulum ante ipsum primis in faucibus orci luctus et
+                  ultrices posuere cubilia curae.</p>
+
                 <ul class="nt-list__pink">
                   <li>Etiam egestas convallis lobortis.</li>
                   <li>Cras lacinia in ex ac iaculis. Sed et tellus ac quam convallis volutpat sed sed tortor.</li>
@@ -47,19 +55,27 @@
 
               <div class="col-lg-6 nt-travel__text">
                 <h3>Japan</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porttitor nibh sit amet ornare gravida. In consequat malesuada vehicula. Donec maximus turpis id sapien gravida facilisis. Suspendisse at nulla at tortor cursus feugiat. Praesent sed auctor felis. Vestibulum vehicula est vitae turpis faucibus, a porttitor dolor imperdiet. </p>
-                  <p>Aliquam tellus tellus, ultrices non ullamcorper in, venenatis a velit. Etiam at hendrerit dui. Fusce eleifend metus sed lectus tempus tempor. Nullam mattis dui nunc, ac laoreet diam venenatis id. Vivamus elementum et sapien vel scelerisque. Fusce urna diam, malesuada eu scelerisque a, semper id urna. Suspendisse in libero lacus. Sed tristique magna sit amet velit semper volutpat. Morbi risus mi, convallis non odio non, semper ultrices ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.</p>
-                  
-                  <ul class="nt-list__pink">
-                    <li>Etiam egestas convallis lobortis.</li>
-                    <li>Cras lacinia in ex ac iaculis. Sed et tellus ac quam convallis volutpat sed sed tortor.</li>
-                    <li>Phasellus et rutrum massa. Nam euismod est sed diam porta, ut malesuada risus hendrerit.</li>
-                    <li>Praesent convallis tellus nibh.</li>
-                  </ul>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porttitor nibh sit amet ornare
+                  gravida. In consequat malesuada vehicula. Donec maximus turpis id sapien gravida facilisis.
+                  Suspendisse at nulla at tortor cursus feugiat. Praesent sed auctor felis. Vestibulum vehicula est
+                  vitae turpis faucibus, a porttitor dolor imperdiet. </p>
+                <p>Aliquam tellus tellus, ultrices non ullamcorper in, venenatis a velit. Etiam at hendrerit dui. Fusce
+                  eleifend metus sed lectus tempus tempor. Nullam mattis dui nunc, ac laoreet diam venenatis id. Vivamus
+                  elementum et sapien vel scelerisque. Fusce urna diam, malesuada eu scelerisque a, semper id urna.
+                  Suspendisse in libero lacus. Sed tristique magna sit amet velit semper volutpat. Morbi risus mi,
+                  convallis non odio non, semper ultrices ante. Vestibulum ante ipsum primis in faucibus orci luctus et
+                  ultrices posuere cubilia curae.</p>
 
-                  <div class="nt-travel__text__btn">
-                    <a class="nt-btn bg-blue" href="#nt-contact">See more about the tourist plan</a>
-                  </div>
+                <ul class="nt-list__pink">
+                  <li>Etiam egestas convallis lobortis.</li>
+                  <li>Cras lacinia in ex ac iaculis. Sed et tellus ac quam convallis volutpat sed sed tortor.</li>
+                  <li>Phasellus et rutrum massa. Nam euismod est sed diam porta, ut malesuada risus hendrerit.</li>
+                  <li>Praesent convallis tellus nibh.</li>
+                </ul>
+
+                <div class="nt-travel__text__btn">
+                  <a class="nt-btn bg-blue" href="#nt-contact">See more about the tourist plan</a>
+                </div>
               </div>
             </div>
           </div>
@@ -72,19 +88,27 @@
 
               <div class="col-lg-6 nt-travel__text">
                 <h3>South Korea</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porttitor nibh sit amet ornare gravida. In consequat malesuada vehicula. Donec maximus turpis id sapien gravida facilisis. Suspendisse at nulla at tortor cursus feugiat. Praesent sed auctor felis. Vestibulum vehicula est vitae turpis faucibus, a porttitor dolor imperdiet. </p>
-                  <p>Aliquam tellus tellus, ultrices non ullamcorper in, venenatis a velit. Etiam at hendrerit dui. Fusce eleifend metus sed lectus tempus tempor. Nullam mattis dui nunc, ac laoreet diam venenatis id. Vivamus elementum et sapien vel scelerisque. Fusce urna diam, malesuada eu scelerisque a, semper id urna. Suspendisse in libero lacus. Sed tristique magna sit amet velit semper volutpat. Morbi risus mi, convallis non odio non, semper ultrices ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.</p>
-                  
-                  <ul class="nt-list__pink">
-                    <li>Etiam egestas convallis lobortis.</li>
-                    <li>Cras lacinia in ex ac iaculis. Sed et tellus ac quam convallis volutpat sed sed tortor.</li>
-                    <li>Phasellus et rutrum massa. Nam euismod est sed diam porta, ut malesuada risus hendrerit.</li>
-                    <li>Praesent convallis tellus nibh.</li>
-                  </ul>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porttitor nibh sit amet ornare
+                  gravida. In consequat malesuada vehicula. Donec maximus turpis id sapien gravida facilisis.
+                  Suspendisse at nulla at tortor cursus feugiat. Praesent sed auctor felis. Vestibulum vehicula est
+                  vitae turpis faucibus, a porttitor dolor imperdiet. </p>
+                <p>Aliquam tellus tellus, ultrices non ullamcorper in, venenatis a velit. Etiam at hendrerit dui. Fusce
+                  eleifend metus sed lectus tempus tempor. Nullam mattis dui nunc, ac laoreet diam venenatis id. Vivamus
+                  elementum et sapien vel scelerisque. Fusce urna diam, malesuada eu scelerisque a, semper id urna.
+                  Suspendisse in libero lacus. Sed tristique magna sit amet velit semper volutpat. Morbi risus mi,
+                  convallis non odio non, semper ultrices ante. Vestibulum ante ipsum primis in faucibus orci luctus et
+                  ultrices posuere cubilia curae.</p>
 
-                  <div class="nt-travel__text__btn">
-                    <a class="nt-btn bg-blue" href="#nt-contact">See more about the tourist plan</a>
-                  </div>
+                <ul class="nt-list__pink">
+                  <li>Etiam egestas convallis lobortis.</li>
+                  <li>Cras lacinia in ex ac iaculis. Sed et tellus ac quam convallis volutpat sed sed tortor.</li>
+                  <li>Phasellus et rutrum massa. Nam euismod est sed diam porta, ut malesuada risus hendrerit.</li>
+                  <li>Praesent convallis tellus nibh.</li>
+                </ul>
+
+                <div class="nt-travel__text__btn">
+                  <a class="nt-btn bg-blue" href="#nt-contact">See more about the tourist plan</a>
+                </div>
               </div>
             </div>
           </div>
@@ -97,19 +121,27 @@
 
               <div class="col-lg-6 nt-travel__text">
                 <h3>Portugal</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porttitor nibh sit amet ornare gravida. In consequat malesuada vehicula. Donec maximus turpis id sapien gravida facilisis. Suspendisse at nulla at tortor cursus feugiat. Praesent sed auctor felis. Vestibulum vehicula est vitae turpis faucibus, a porttitor dolor imperdiet. </p>
-                  <p>Aliquam tellus tellus, ultrices non ullamcorper in, venenatis a velit. Etiam at hendrerit dui. Fusce eleifend metus sed lectus tempus tempor. Nullam mattis dui nunc, ac laoreet diam venenatis id. Vivamus elementum et sapien vel scelerisque. Fusce urna diam, malesuada eu scelerisque a, semper id urna. Suspendisse in libero lacus. Sed tristique magna sit amet velit semper volutpat. Morbi risus mi, convallis non odio non, semper ultrices ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.</p>
-                  
-                  <ul class="nt-list__pink">
-                    <li>Etiam egestas convallis lobortis.</li>
-                    <li>Cras lacinia in ex ac iaculis. Sed et tellus ac quam convallis volutpat sed sed tortor.</li>
-                    <li>Phasellus et rutrum massa. Nam euismod est sed diam porta, ut malesuada risus hendrerit.</li>
-                    <li>Praesent convallis tellus nibh.</li>
-                  </ul>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porttitor nibh sit amet ornare
+                  gravida. In consequat malesuada vehicula. Donec maximus turpis id sapien gravida facilisis.
+                  Suspendisse at nulla at tortor cursus feugiat. Praesent sed auctor felis. Vestibulum vehicula est
+                  vitae turpis faucibus, a porttitor dolor imperdiet. </p>
+                <p>Aliquam tellus tellus, ultrices non ullamcorper in, venenatis a velit. Etiam at hendrerit dui. Fusce
+                  eleifend metus sed lectus tempus tempor. Nullam mattis dui nunc, ac laoreet diam venenatis id. Vivamus
+                  elementum et sapien vel scelerisque. Fusce urna diam, malesuada eu scelerisque a, semper id urna.
+                  Suspendisse in libero lacus. Sed tristique magna sit amet velit semper volutpat. Morbi risus mi,
+                  convallis non odio non, semper ultrices ante. Vestibulum ante ipsum primis in faucibus orci luctus et
+                  ultrices posuere cubilia curae.</p>
 
-                  <div class="nt-travel__text__btn">
-                    <a class="nt-btn bg-blue" href="#nt-contact">See more about the tourist plan</a>
-                  </div>
+                <ul class="nt-list__pink">
+                  <li>Etiam egestas convallis lobortis.</li>
+                  <li>Cras lacinia in ex ac iaculis. Sed et tellus ac quam convallis volutpat sed sed tortor.</li>
+                  <li>Phasellus et rutrum massa. Nam euismod est sed diam porta, ut malesuada risus hendrerit.</li>
+                  <li>Praesent convallis tellus nibh.</li>
+                </ul>
+
+                <div class="nt-travel__text__btn">
+                  <a class="nt-btn bg-blue" href="#nt-contact">See more about the tourist plan</a>
+                </div>
               </div>
             </div>
           </div>
@@ -122,19 +154,27 @@
 
               <div class="col-lg-6 nt-travel__text">
                 <h3>Italy</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porttitor nibh sit amet ornare gravida. In consequat malesuada vehicula. Donec maximus turpis id sapien gravida facilisis. Suspendisse at nulla at tortor cursus feugiat. Praesent sed auctor felis. Vestibulum vehicula est vitae turpis faucibus, a porttitor dolor imperdiet. </p>
-                  <p>Aliquam tellus tellus, ultrices non ullamcorper in, venenatis a velit. Etiam at hendrerit dui. Fusce eleifend metus sed lectus tempus tempor. Nullam mattis dui nunc, ac laoreet diam venenatis id. Vivamus elementum et sapien vel scelerisque. Fusce urna diam, malesuada eu scelerisque a, semper id urna. Suspendisse in libero lacus. Sed tristique magna sit amet velit semper volutpat. Morbi risus mi, convallis non odio non, semper ultrices ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.</p>
-                  
-                  <ul class="nt-list__pink">
-                    <li>Etiam egestas convallis lobortis.</li>
-                    <li>Cras lacinia in ex ac iaculis. Sed et tellus ac quam convallis volutpat sed sed tortor.</li>
-                    <li>Phasellus et rutrum massa. Nam euismod est sed diam porta, ut malesuada risus hendrerit.</li>
-                    <li>Praesent convallis tellus nibh.</li>
-                  </ul>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porttitor nibh sit amet ornare
+                  gravida. In consequat malesuada vehicula. Donec maximus turpis id sapien gravida facilisis.
+                  Suspendisse at nulla at tortor cursus feugiat. Praesent sed auctor felis. Vestibulum vehicula est
+                  vitae turpis faucibus, a porttitor dolor imperdiet. </p>
+                <p>Aliquam tellus tellus, ultrices non ullamcorper in, venenatis a velit. Etiam at hendrerit dui. Fusce
+                  eleifend metus sed lectus tempus tempor. Nullam mattis dui nunc, ac laoreet diam venenatis id. Vivamus
+                  elementum et sapien vel scelerisque. Fusce urna diam, malesuada eu scelerisque a, semper id urna.
+                  Suspendisse in libero lacus. Sed tristique magna sit amet velit semper volutpat. Morbi risus mi,
+                  convallis non odio non, semper ultrices ante. Vestibulum ante ipsum primis in faucibus orci luctus et
+                  ultrices posuere cubilia curae.</p>
 
-                  <div class="nt-travel__text__btn">
-                    <a class="nt-btn bg-blue" href="#nt-contact">See more about the tourist plan</a>
-                  </div>
+                <ul class="nt-list__pink">
+                  <li>Etiam egestas convallis lobortis.</li>
+                  <li>Cras lacinia in ex ac iaculis. Sed et tellus ac quam convallis volutpat sed sed tortor.</li>
+                  <li>Phasellus et rutrum massa. Nam euismod est sed diam porta, ut malesuada risus hendrerit.</li>
+                  <li>Praesent convallis tellus nibh.</li>
+                </ul>
+
+                <div class="nt-travel__text__btn">
+                  <a class="nt-btn bg-blue" href="#nt-contact">See more about the tourist plan</a>
+                </div>
               </div>
             </div>
           </div>
@@ -147,19 +187,27 @@
 
               <div class="col-lg-6 nt-travel__text">
                 <h3>United Kingdom</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porttitor nibh sit amet ornare gravida. In consequat malesuada vehicula. Donec maximus turpis id sapien gravida facilisis. Suspendisse at nulla at tortor cursus feugiat. Praesent sed auctor felis. Vestibulum vehicula est vitae turpis faucibus, a porttitor dolor imperdiet. </p>
-                  <p>Aliquam tellus tellus, ultrices non ullamcorper in, venenatis a velit. Etiam at hendrerit dui. Fusce eleifend metus sed lectus tempus tempor. Nullam mattis dui nunc, ac laoreet diam venenatis id. Vivamus elementum et sapien vel scelerisque. Fusce urna diam, malesuada eu scelerisque a, semper id urna. Suspendisse in libero lacus. Sed tristique magna sit amet velit semper volutpat. Morbi risus mi, convallis non odio non, semper ultrices ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.</p>
-                  
-                  <ul class="nt-list__pink">
-                    <li>Etiam egestas convallis lobortis.</li>
-                    <li>Cras lacinia in ex ac iaculis. Sed et tellus ac quam convallis volutpat sed sed tortor.</li>
-                    <li>Phasellus et rutrum massa. Nam euismod est sed diam porta, ut malesuada risus hendrerit.</li>
-                    <li>Praesent convallis tellus nibh.</li>
-                  </ul>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porttitor nibh sit amet ornare
+                  gravida. In consequat malesuada vehicula. Donec maximus turpis id sapien gravida facilisis.
+                  Suspendisse at nulla at tortor cursus feugiat. Praesent sed auctor felis. Vestibulum vehicula est
+                  vitae turpis faucibus, a porttitor dolor imperdiet. </p>
+                <p>Aliquam tellus tellus, ultrices non ullamcorper in, venenatis a velit. Etiam at hendrerit dui. Fusce
+                  eleifend metus sed lectus tempus tempor. Nullam mattis dui nunc, ac laoreet diam venenatis id. Vivamus
+                  elementum et sapien vel scelerisque. Fusce urna diam, malesuada eu scelerisque a, semper id urna.
+                  Suspendisse in libero lacus. Sed tristique magna sit amet velit semper volutpat. Morbi risus mi,
+                  convallis non odio non, semper ultrices ante. Vestibulum ante ipsum primis in faucibus orci luctus et
+                  ultrices posuere cubilia curae.</p>
 
-                  <div class="nt-travel__text__btn">
-                    <a class="nt-btn bg-blue" href="#nt-contact">See more about the tourist plan</a>
-                  </div>
+                <ul class="nt-list__pink">
+                  <li>Etiam egestas convallis lobortis.</li>
+                  <li>Cras lacinia in ex ac iaculis. Sed et tellus ac quam convallis volutpat sed sed tortor.</li>
+                  <li>Phasellus et rutrum massa. Nam euismod est sed diam porta, ut malesuada risus hendrerit.</li>
+                  <li>Praesent convallis tellus nibh.</li>
+                </ul>
+
+                <div class="nt-travel__text__btn">
+                  <a class="nt-btn bg-blue" href="#nt-contact">See more about the tourist plan</a>
+                </div>
               </div>
             </div>
           </div>
@@ -174,7 +222,7 @@
           <span class="sr-only">Next</span>
         </a>
       </div>
-      
+
     </div>
   </section>
 </template>
@@ -191,65 +239,97 @@ export default {
 .nt-travel {
   padding-top: 160px;
 
-  h2{
+  h2 {
     margin-bottom: 40px;
   }
 
-  .carousel-control-prev, .carousel-control-next{
+  .carousel-control-prev,
+  .carousel-control-next {
     display: none;
   }
 
-  &__img{
+  &__img {
     padding-right: 40px;
-    img{
+
+    img {
       width: 100%;
       border-top-right-radius: 30px;
       border-bottom-left-radius: 30px;
 
     }
+
+
+    @media(max-width: 780px) {
+      padding: 0 20px;
+    }
   }
 
-  &__text{
+  &__text {
     padding: 40px 0 0 40px;
 
-    h3{
+    h3 {
       margin-bottom: 30px;
     }
-    
-    p{
+
+    p {
       margin: 15px 0;
     }
 
-    &__btn{
+    &__btn {
       margin-top: 60px;
     }
 
-    .nt-list{
-      &__pink{
+    .nt-list {
+      &__pink {
         margin-top: 40px;
-    
+
         li {
           margin-left: 25px;
         }
       }
     }
 
+    
+  @media(max-width: 780px) {
+    padding: 20px;
+    h3{
+      margin-bottom: 20px;
+    }
+
+    &__btn {
+      margin-top: 40px;
+    }
+
+    .nt-list {
+      &__pink {
+        margin-top: 20px;
+
+        li {
+          margin-left: 20px;
+        }
+      }
+    }
   }
-  .carousel-indicators{
-    li{
+  }
+
+  .carousel-indicators {
+    li {
       width: 20px;
       height: 20px;
       border-radius: 50%;
       background-color: $nt-blue;
-      
-      &.active{
+
+      &.active {
         background-color: $nt-yellow;
-        
+
       }
     }
   }
 
-  @media(max-width: 780px) {
+  @media(max-width: 780px){
+    .carousel-indicators{
+     position: relative;
+    }
   }
 }
 </style>
