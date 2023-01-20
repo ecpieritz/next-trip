@@ -34,5 +34,65 @@ export default {
 <style scoped lang="scss">
 @import '../scss/main.scss';
 
+.nt-footer {
+  padding: 20px 80px;
+  
+  &__made-by{
+    margin-top: 40px;
+    color: $nt-white;
+    text-align: center;
+  }
 
+  &__brand {
+    font-size: 50px;
+    line-height: 1;
+    display: flex;
+    flex-direction: column;
+
+    a{
+      text-decoration: none;
+      color: $nt-white;
+      font-weight: 700;
+    }
+
+  }
+
+  &__menu{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 18px;
+
+    h4{
+      margin-bottom: 20px;
+    }
+    
+    a{
+      margin: 3px 0;
+      color: $nt-white;
+      text-decoration: none;
+      
+      &:hover{
+        color: $nt-blue;
+      }
+    }
+  }
+
+  &__address{
+    text-align: end;
+    h4{
+      margin-bottom: 20px;
+    }
+    p{
+      margin: 10px 0;
+    }
+  }
+
+
+  p {
+    color: $nt-white;
+  }
+
+  @media(max-width: 780px) {}
+}
 </style>
