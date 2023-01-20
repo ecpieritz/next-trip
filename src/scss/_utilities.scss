@@ -101,3 +101,23 @@ body {
     }
   }
 }
+
+.nt-list{
+  &__pink{
+    list-style: none;
+
+    li {
+      font-size: 18px;
+      margin-bottom: 15px;
+
+      &::before{
+        content: "⦿";  
+        color: $nt-pink; 
+        font-weight: bold; 
+        display: inline-block;
+        width: 1.5em; 
+        margin-left: -1.5em;
+      }
+    }
+  }
+}
