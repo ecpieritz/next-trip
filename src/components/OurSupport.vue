@@ -1,5 +1,5 @@
 <template>
-  <section class="nt-support">
+  <section class="nt-support" id="nt-support">
     <div class="container-fluid">
       <h2 class="text-center">Do you want to prevent yourself in case something unforeseen arises on your trip?</h2>
       <h3 class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porttitor nibh sit amet ornare.</h3>
@@ -65,6 +65,18 @@ export default {
   }
 
   @media(max-width: 780px){
+    padding: 80px 20px 0;
+
+    h2,h3{
+      width: 100%;
+    }
+
+    &__item{
+      margin-bottom: 40px;
+      &:last-of-type{
+        margin-bottom: 0;
+      }
+    }
   }
 }
 </style>

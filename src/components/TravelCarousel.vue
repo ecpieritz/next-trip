@@ -327,6 +327,7 @@ export default {
   }
 
   @media(max-width: 780px){
+    padding: 80px 0 0;
     .carousel-indicators{
      position: relative;
     }
