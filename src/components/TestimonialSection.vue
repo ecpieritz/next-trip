@@ -79,7 +79,7 @@ export default {
 @import '../scss/main.scss';
 
 .nt-testimonial{
-  padding-top: 160px;
+  padding: 160px 0;
 
   .cards-wrapper {
     display: flex;
@@ -114,7 +114,7 @@ export default {
   }
 
   @media(max-width: 780px){
-    padding: 80px 20px 0;
+    padding: 80px 20px;
   }
 }
 </style>

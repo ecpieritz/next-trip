@@ -6,6 +6,7 @@
     <TravelCarousel />
     <OurSupport />
     <TestimonialSection />
+    <ContactUs />
   </main>
 </template>
 
@@ -16,11 +17,12 @@ import AboutSection from './components/AboutSection.vue'
 import TravelCarousel from './components/TravelCarousel.vue'
 import OurSupport from './components/OurSupport.vue'
 import TestimonialSection from './components/TestimonialSection.vue'
+import ContactUs from './components/ContactUs.vue'
 
 export default {
   name: 'App',
   components: {
-    NavBar, HeroBanner, AboutSection, TravelCarousel, OurSupport, TestimonialSection
+    NavBar, HeroBanner, AboutSection, TravelCarousel, OurSupport, TestimonialSection, ContactUs
   }
 }
 </script>
