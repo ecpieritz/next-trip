@@ -76,6 +76,13 @@ export default {
         color: $nt-blue;
       }
     }
+
+    @media(max-width: 780px){
+      margin: 30px auto;
+      h4{
+        margin-bottom: 10px;
+      }
+    }
   }
 
   &__address{
@@ -86,6 +93,13 @@ export default {
     p{
       margin: 10px 0;
     }
+
+    @media(max-width: 780px){
+      text-align: center;
+      h4{
+        margin-bottom: 10px;
+      }
+    }
   }
 
 
@@ -93,6 +107,8 @@ export default {
     color: $nt-white;
   }
 
-  @media(max-width: 780px) {}
+  @media(max-width: 780px) {
+    text-align: center;
+  }
 }
 </style>
