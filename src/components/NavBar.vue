@@ -13,10 +13,13 @@
           <a class="nav-link" href="#nt-about">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#nt-services">Services</a>
+          <a class="nav-link" href="#nt-travel">Travels</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#nt-travels">Travels</a>
+          <a class="nav-link" href="#nt-service">Services</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#nt-testimonial">Testimonial</a>
         </li>
       </ul>
 
