@@ -54,12 +54,6 @@ export default {
     border-radius: 20px;
   }
 
-  h4 {
-    margin: 40px 0 60px;
-    width: 70%;
-    line-height: 1.5;
-  }
-
   .form-group{
     margin-top: 20px;
     label{
@@ -80,6 +74,19 @@ export default {
       margin-top: 40px;
   }
 
-  
+  @media(max-width: 780px) {
+    height: auto;
+
+    .nt-color__bg__white {
+      width: 100%;
+      background-color: transparent;
+      padding: 20px 20px 60px;
+
+      h1 {
+        color: $nt-white;
+        width: 100%;
+      }
+    }
+  }
 }
 </style>
