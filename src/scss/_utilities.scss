@@ -63,6 +63,14 @@ body {
       background: rgb(204, 24, 87);
       background: linear-gradient(180deg, rgba(204, 24, 87, 1) 0%, rgb(117, 13, 49) 100%);
     }
+    &__blue-gradient {
+      background: rgb(26, 115, 231);
+      background: linear-gradient(180deg, rgba(26, 115, 231, 1) 0%, rgb(14, 69, 139) 100%);
+    }
+    &__yellow-gradient {
+      background: rgb(251, 142, 3);
+      background: linear-gradient(180deg, rgba(251, 142, 3, 1) 0%, rgb(153, 87, 0) 100%);
+    }
   }
 }
 
