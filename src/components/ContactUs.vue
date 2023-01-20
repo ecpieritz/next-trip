@@ -16,8 +16,8 @@
             </div>
           </div>
           <div class="form-group">
-            <label for="form-message">Message</label>
-            <textarea class="form-control" id="form-message" rows="6"></textarea>
+            <label for="formMessage">Message</label>
+            <textarea class="form-control" id="formMessage" rows="6"></textarea>
           </div>
           <button type="submit" class="nt-btn bg-pink">Send</button>
         </form>
@@ -36,4 +36,50 @@ export default {
 <style scoped lang="scss">
 @import '../scss/main.scss';
 
+.nt-contact {
+  height: 800px;
+  background-image: url(../assets/imgs/nt__contact-bg.png);
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: auto 800px;
+
+  .container-fluid {
+    padding-top: 8%;
+
+  }
+
+  .nt-color__bg__white {
+    width: 60%;
+    padding: 40px 80px 60px;
+    border-radius: 20px;
+  }
+
+  h4 {
+    margin: 40px 0 60px;
+    width: 70%;
+    line-height: 1.5;
+  }
+
+  .form-group{
+    margin-top: 20px;
+    label{
+      margin: 0;
+      font-size: 20px;
+    }
+
+    &.col-md-6{
+      padding-left: 0;
+      padding-right: 0;
+      &:first-child{
+        padding-right: 5px;
+      }
+    }
+  }
+
+  button{
+      margin-top: 40px;
+  }
+
+  
+}
 </style>
